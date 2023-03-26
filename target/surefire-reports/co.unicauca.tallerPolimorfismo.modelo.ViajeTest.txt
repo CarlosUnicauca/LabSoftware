@@ -1,0 +1,56 @@
+-------------------------------------------------------------------------------
+Test set: co.unicauca.tallerPolimorfismo.modelo.ViajeTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 13, Skipped: 0, Time elapsed: 0.031 sec <<< FAILURE!
+testGetFechaLlegada(co.unicauca.tallerPolimorfismo.modelo.ViajeTest)  Time elapsed: 0.012 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "co.unicauca.tallerPolimorfismo.modelo.Viaje.getFechaLlegada()" because "instance" is null
+	at co.unicauca.tallerPolimorfismo.modelo.ViajeTest.testGetFechaLlegada(ViajeTest.java:137)
+
+testGetOrigen(co.unicauca.tallerPolimorfismo.modelo.ViajeTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "co.unicauca.tallerPolimorfismo.modelo.Viaje.getOrigen()" because "instance" is null
+	at co.unicauca.tallerPolimorfismo.modelo.ViajeTest.testGetOrigen(ViajeTest.java:37)
+
+testGetFechaSalida(co.unicauca.tallerPolimorfismo.modelo.ViajeTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "co.unicauca.tallerPolimorfismo.modelo.Viaje.getFechaSalida()" because "instance" is null
+	at co.unicauca.tallerPolimorfismo.modelo.ViajeTest.testGetFechaSalida(ViajeTest.java:112)
+
+testSetFechaSalida(co.unicauca.tallerPolimorfismo.modelo.ViajeTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "co.unicauca.tallerPolimorfismo.modelo.Viaje.setFechaSalida(java.util.Date)" because "instance" is null
+	at co.unicauca.tallerPolimorfismo.modelo.ViajeTest.testSetFechaSalida(ViajeTest.java:125)
+
+testGetDestino(co.unicauca.tallerPolimorfismo.modelo.ViajeTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "co.unicauca.tallerPolimorfismo.modelo.Viaje.getDestino()" because "instance" is null
+	at co.unicauca.tallerPolimorfismo.modelo.ViajeTest.testGetDestino(ViajeTest.java:62)
+
+testDescripcion(co.unicauca.tallerPolimorfismo.modelo.ViajeTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "co.unicauca.tallerPolimorfismo.modelo.Viaje.descripcion()" because "instance" is null
+	at co.unicauca.tallerPolimorfismo.modelo.ViajeTest.testDescripcion(ViajeTest.java:162)
+
+testGetCosto(co.unicauca.tallerPolimorfismo.modelo.ViajeTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "co.unicauca.tallerPolimorfismo.modelo.Viaje.getCosto()" because "instance" is null
+	at co.unicauca.tallerPolimorfismo.modelo.ViajeTest.testGetCosto(ViajeTest.java:87)
+
+testSetDestino(co.unicauca.tallerPolimorfismo.modelo.ViajeTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "co.unicauca.tallerPolimorfismo.modelo.Viaje.setDestino(String)" because "instance" is null
+	at co.unicauca.tallerPolimorfismo.modelo.ViajeTest.testSetDestino(ViajeTest.java:75)
+
+testSetCosto(co.unicauca.tallerPolimorfismo.modelo.ViajeTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "co.unicauca.tallerPolimorfismo.modelo.Viaje.setCosto(int)" because "instance" is null
+	at co.unicauca.tallerPolimorfismo.modelo.ViajeTest.testSetCosto(ViajeTest.java:100)
+
+testSetOrigen(co.unicauca.tallerPolimorfismo.modelo.ViajeTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "co.unicauca.tallerPolimorfismo.modelo.Viaje.setOrigen(String)" because "instance" is null
+	at co.unicauca.tallerPolimorfismo.modelo.ViajeTest.testSetOrigen(ViajeTest.java:50)
+
+testCualquierMetodo(co.unicauca.tallerPolimorfismo.modelo.ViajeTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "co.unicauca.tallerPolimorfismo.modelo.Viaje.cualquierMetodo()" because "instance" is null
+	at co.unicauca.tallerPolimorfismo.modelo.ViajeTest.testCualquierMetodo(ViajeTest.java:175)
+
+testSetFechaLlegada(co.unicauca.tallerPolimorfismo.modelo.ViajeTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "co.unicauca.tallerPolimorfismo.modelo.Viaje.setFechaLlegada(java.util.Date)" because "instance" is null
+	at co.unicauca.tallerPolimorfismo.modelo.ViajeTest.testSetFechaLlegada(ViajeTest.java:150)
+
+testCualquierMetodo2(co.unicauca.tallerPolimorfismo.modelo.ViajeTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "co.unicauca.tallerPolimorfismo.modelo.Viaje.cualquierMetodo2()" because "instance" is null
+	at co.unicauca.tallerPolimorfismo.modelo.ViajeTest.testCualquierMetodo2(ViajeTest.java:188)
+
